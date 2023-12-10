@@ -1,0 +1,8 @@
+/home/smxrfx/TrainClass/LanguageCPP/CloudDisk/CloudDiskClient/build/linux-debug/CMakeFiles/project.dir
+/home/smxrfx/TrainClass/LanguageCPP/CloudDisk/CloudDiskClient/build/linux-debug/CMakeFiles/edit_cache.dir
+/home/smxrfx/TrainClass/LanguageCPP/CloudDisk/CloudDiskClient/build/linux-debug/CMakeFiles/rebuild_cache.dir
+/home/smxrfx/TrainClass/LanguageCPP/CloudDisk/CloudDiskClient/build/linux-debug/CMakeFiles/list_install_components.dir
+/home/smxrfx/TrainClass/LanguageCPP/CloudDisk/CloudDiskClient/build/linux-debug/CMakeFiles/install.dir
+/home/smxrfx/TrainClass/LanguageCPP/CloudDisk/CloudDiskClient/build/linux-debug/CMakeFiles/install/local.dir
+/home/smxrfx/TrainClass/LanguageCPP/CloudDisk/CloudDiskClient/build/linux-debug/CMakeFiles/install/strip.dir
+/home/smxrfx/TrainClass/LanguageCPP/CloudDisk/CloudDiskClient/build/linux-debug/CMakeFiles/project_autogen.dir

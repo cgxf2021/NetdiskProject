@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/config">
+        <file>config.cfg</file>
+    </qresource>
+    <qresource prefix="/database">
+        <file>cloud.db</file>
+    </qresource>
+</RCC>

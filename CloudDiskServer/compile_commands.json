@@ -1,0 +1,42 @@
+[
+{
+  "directory": "/home/smxrfx/TrainClass/LanguageCPP/CloudDisk/CloudDiskServer/build/linux-debug",
+  "command": "/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_SQL_LIB -DQT_WIDGETS_LIB -I/home/smxrfx/TrainClass/LanguageCPP/CloudDisk/CloudDiskServer/build/linux-debug/project_autogen/include -isystem /home/smxrfx/Qt/6.6.0/gcc_64/include/QtCore -isystem /home/smxrfx/Qt/6.6.0/gcc_64/include -isystem /home/smxrfx/Qt/6.6.0/gcc_64/mkspecs/linux-g++ -isystem /home/smxrfx/Qt/6.6.0/gcc_64/include/QtWidgets -isystem /home/smxrfx/Qt/6.6.0/gcc_64/include/QtGui -isystem /home/smxrfx/Qt/6.6.0/gcc_64/include/QtNetwork -isystem /home/smxrfx/Qt/6.6.0/gcc_64/include/QtSql -g -fPIC -std=gnu++17 -o CMakeFiles/project.dir/project_autogen/mocs_compilation.cpp.o -c /home/smxrfx/TrainClass/LanguageCPP/CloudDisk/CloudDiskServer/build/linux-debug/project_autogen/mocs_compilation.cpp",
+  "file": "/home/smxrfx/TrainClass/LanguageCPP/CloudDisk/CloudDiskServer/build/linux-debug/project_autogen/mocs_compilation.cpp"
+},
+{
+  "directory": "/home/smxrfx/TrainClass/LanguageCPP/CloudDisk/CloudDiskServer/build/linux-debug",
+  "command": "/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_SQL_LIB -DQT_WIDGETS_LIB -I/home/smxrfx/TrainClass/LanguageCPP/CloudDisk/CloudDiskServer/build/linux-debug/project_autogen/include -isystem /home/smxrfx/Qt/6.6.0/gcc_64/include/QtCore -isystem /home/smxrfx/Qt/6.6.0/gcc_64/include -isystem /home/smxrfx/Qt/6.6.0/gcc_64/mkspecs/linux-g++ -isystem /home/smxrfx/Qt/6.6.0/gcc_64/include/QtWidgets -isystem /home/smxrfx/Qt/6.6.0/gcc_64/include/QtGui -isystem /home/smxrfx/Qt/6.6.0/gcc_64/include/QtNetwork -isystem /home/smxrfx/Qt/6.6.0/gcc_64/include/QtSql -g -fPIC -std=gnu++17 -o CMakeFiles/project.dir/main.cpp.o -c /home/smxrfx/TrainClass/LanguageCPP/CloudDisk/CloudDiskServer/main.cpp",
+  "file": "/home/smxrfx/TrainClass/LanguageCPP/CloudDisk/CloudDiskServer/main.cpp"
+},
+{
+  "directory": "/home/smxrfx/TrainClass/LanguageCPP/CloudDisk/CloudDiskServer/build/linux-debug",
+  "command": "/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_SQL_LIB -DQT_WIDGETS_LIB -I/home/smxrfx/TrainClass/LanguageCPP/CloudDisk/CloudDiskServer/build/linux-debug/project_autogen/include -isystem /home/smxrfx/Qt/6.6.0/gcc_64/include/QtCore -isystem /home/smxrfx/Qt/6.6.0/gcc_64/include -isystem /home/smxrfx/Qt/6.6.0/gcc_64/mkspecs/linux-g++ -isystem /home/smxrfx/Qt/6.6.0/gcc_64/include/QtWidgets -isystem /home/smxrfx/Qt/6.6.0/gcc_64/include/QtGui -isystem /home/smxrfx/Qt/6.6.0/gcc_64/include/QtNetwork -isystem /home/smxrfx/Qt/6.6.0/gcc_64/include/QtSql -g -fPIC -std=gnu++17 -o CMakeFiles/project.dir/widget.cpp.o -c /home/smxrfx/TrainClass/LanguageCPP/CloudDisk/CloudDiskServer/widget.cpp",
+  "file": "/home/smxrfx/TrainClass/LanguageCPP/CloudDisk/CloudDiskServer/widget.cpp"
+},
+{
+  "directory": "/home/smxrfx/TrainClass/LanguageCPP/CloudDisk/CloudDiskServer/build/linux-debug",
+  "command": "/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_SQL_LIB -DQT_WIDGETS_LIB -I/home/smxrfx/TrainClass/LanguageCPP/CloudDisk/CloudDiskServer/build/linux-debug/project_autogen/include -isystem /home/smxrfx/Qt/6.6.0/gcc_64/include/QtCore -isystem /home/smxrfx/Qt/6.6.0/gcc_64/include -isystem /home/smxrfx/Qt/6.6.0/gcc_64/mkspecs/linux-g++ -isystem /home/smxrfx/Qt/6.6.0/gcc_64/include/QtWidgets -isystem /home/smxrfx/Qt/6.6.0/gcc_64/include/QtGui -isystem /home/smxrfx/Qt/6.6.0/gcc_64/include/QtNetwork -isystem /home/smxrfx/Qt/6.6.0/gcc_64/include/QtSql -g -fPIC -std=gnu++17 -o CMakeFiles/project.dir/source/cloud_server.cpp.o -c /home/smxrfx/TrainClass/LanguageCPP/CloudDisk/CloudDiskServer/source/cloud_server.cpp",
+  "file": "/home/smxrfx/TrainClass/LanguageCPP/CloudDisk/CloudDiskServer/source/cloud_server.cpp"
+},
+{
+  "directory": "/home/smxrfx/TrainClass/LanguageCPP/CloudDisk/CloudDiskServer/build/linux-debug",
+  "command": "/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_SQL_LIB -DQT_WIDGETS_LIB -I/home/smxrfx/TrainClass/LanguageCPP/CloudDisk/CloudDiskServer/build/linux-debug/project_autogen/include -isystem /home/smxrfx/Qt/6.6.0/gcc_64/include/QtCore -isystem /home/smxrfx/Qt/6.6.0/gcc_64/include -isystem /home/smxrfx/Qt/6.6.0/gcc_64/mkspecs/linux-g++ -isystem /home/smxrfx/Qt/6.6.0/gcc_64/include/QtWidgets -isystem /home/smxrfx/Qt/6.6.0/gcc_64/include/QtGui -isystem /home/smxrfx/Qt/6.6.0/gcc_64/include/QtNetwork -isystem /home/smxrfx/Qt/6.6.0/gcc_64/include/QtSql -g -fPIC -std=gnu++17 -o CMakeFiles/project.dir/source/cloud_socket.cpp.o -c /home/smxrfx/TrainClass/LanguageCPP/CloudDisk/CloudDiskServer/source/cloud_socket.cpp",
+  "file": "/home/smxrfx/TrainClass/LanguageCPP/CloudDisk/CloudDiskServer/source/cloud_socket.cpp"
+},
+{
+  "directory": "/home/smxrfx/TrainClass/LanguageCPP/CloudDisk/CloudDiskServer/build/linux-debug",
+  "command": "/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_SQL_LIB -DQT_WIDGETS_LIB -I/home/smxrfx/TrainClass/LanguageCPP/CloudDisk/CloudDiskServer/build/linux-debug/project_autogen/include -isystem /home/smxrfx/Qt/6.6.0/gcc_64/include/QtCore -isystem /home/smxrfx/Qt/6.6.0/gcc_64/include -isystem /home/smxrfx/Qt/6.6.0/gcc_64/mkspecs/linux-g++ -isystem /home/smxrfx/Qt/6.6.0/gcc_64/include/QtWidgets -isystem /home/smxrfx/Qt/6.6.0/gcc_64/include/QtGui -isystem /home/smxrfx/Qt/6.6.0/gcc_64/include/QtNetwork -isystem /home/smxrfx/Qt/6.6.0/gcc_64/include/QtSql -g -fPIC -std=gnu++17 -o CMakeFiles/project.dir/source/protocol.cpp.o -c /home/smxrfx/TrainClass/LanguageCPP/CloudDisk/CloudDiskServer/source/protocol.cpp",
+  "file": "/home/smxrfx/TrainClass/LanguageCPP/CloudDisk/CloudDiskServer/source/protocol.cpp"
+},
+{
+  "directory": "/home/smxrfx/TrainClass/LanguageCPP/CloudDisk/CloudDiskServer/build/linux-debug",
+  "command": "/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_SQL_LIB -DQT_WIDGETS_LIB -I/home/smxrfx/TrainClass/LanguageCPP/CloudDisk/CloudDiskServer/build/linux-debug/project_autogen/include -isystem /home/smxrfx/Qt/6.6.0/gcc_64/include/QtCore -isystem /home/smxrfx/Qt/6.6.0/gcc_64/include -isystem /home/smxrfx/Qt/6.6.0/gcc_64/mkspecs/linux-g++ -isystem /home/smxrfx/Qt/6.6.0/gcc_64/include/QtWidgets -isystem /home/smxrfx/Qt/6.6.0/gcc_64/include/QtGui -isystem /home/smxrfx/Qt/6.6.0/gcc_64/include/QtNetwork -isystem /home/smxrfx/Qt/6.6.0/gcc_64/include/QtSql -g -fPIC -std=gnu++17 -o CMakeFiles/project.dir/source/database_operator.cpp.o -c /home/smxrfx/TrainClass/LanguageCPP/CloudDisk/CloudDiskServer/source/database_operator.cpp",
+  "file": "/home/smxrfx/TrainClass/LanguageCPP/CloudDisk/CloudDiskServer/source/database_operator.cpp"
+},
+{
+  "directory": "/home/smxrfx/TrainClass/LanguageCPP/CloudDisk/CloudDiskServer/build/linux-debug",
+  "command": "/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_SQL_LIB -DQT_WIDGETS_LIB -I/home/smxrfx/TrainClass/LanguageCPP/CloudDisk/CloudDiskServer/build/linux-debug/project_autogen/include -isystem /home/smxrfx/Qt/6.6.0/gcc_64/include/QtCore -isystem /home/smxrfx/Qt/6.6.0/gcc_64/include -isystem /home/smxrfx/Qt/6.6.0/gcc_64/mkspecs/linux-g++ -isystem /home/smxrfx/Qt/6.6.0/gcc_64/include/QtWidgets -isystem /home/smxrfx/Qt/6.6.0/gcc_64/include/QtGui -isystem /home/smxrfx/Qt/6.6.0/gcc_64/include/QtNetwork -isystem /home/smxrfx/Qt/6.6.0/gcc_64/include/QtSql -g -fPIC -std=gnu++17 -o CMakeFiles/project.dir/project_autogen/EWIEGA46WW/qrc_resource.cpp.o -c /home/smxrfx/TrainClass/LanguageCPP/CloudDisk/CloudDiskServer/build/linux-debug/project_autogen/EWIEGA46WW/qrc_resource.cpp",
+  "file": "/home/smxrfx/TrainClass/LanguageCPP/CloudDisk/CloudDiskServer/build/linux-debug/project_autogen/EWIEGA46WW/qrc_resource.cpp"
+}
+]
